@@ -1,4 +1,4 @@
 # java-asgmts
-assignments
+Software Development program
 
 These are the assignments I submitted in Java.
