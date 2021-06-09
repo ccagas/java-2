@@ -1,13 +1,5 @@
 package com.ccagas;
 
-/**
- * ADEV-1001 (OPEN) Programming (Java 2)
- * 
- * Assignment: Java Advanced Class
- * 
- * @author Candie
- *
- */
 
 // Demo class
 public class OuterCarTest {
