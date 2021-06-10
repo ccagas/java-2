@@ -4,14 +4,6 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Set;
 
-/**
- * ADEV-1001 (OPEN) Programming (Java 2)
- * 
- * Assignment: Java Collection Framework 2
- * 
- * @author Candie
- *
- */
 public class HashMapExample {
 
 	public static void main(String[] args) {
