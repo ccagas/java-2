@@ -1,14 +1,5 @@
 package com.ccagas;
 
-/**
- * ADEV-1001 (OPEN) Programming (Java 2)
- * 
- * Assignment: Java Threads
- * 
- * @author Candie
- *
- */
-
 public class ThreadRunnableExample implements Runnable {
 
 	@Override
