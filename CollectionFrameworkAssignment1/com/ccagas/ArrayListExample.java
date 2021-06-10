@@ -4,15 +4,6 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Iterator;
 
-/**
- * ADEV-1001 (OPEN) Programming (Java 2)
- * 
- * Assignment: Java Collection Framework 1
- * 
- * @author Candie
- *
- */
-
 public class ArrayListExample {
 
 	public static void main(String[] args) {
