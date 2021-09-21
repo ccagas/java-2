@@ -1,4 +1,4 @@
-# java-asgmts
+# java-2
 Software Development program
 
-These are the assignments I submitted in Java.
+Assignments submitted in Java 2.
